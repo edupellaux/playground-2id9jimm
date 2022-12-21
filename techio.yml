@@ -1,4 +1,6 @@
 title: Essai de Tech.io
 plan:
-- title: Introduction
-  statement: markdowns/introduction.md
+  - title: Introduction
+    statement: markdowns/introduction.md
+  - title: Quiz
+    statement: markdowns/quiz.md
