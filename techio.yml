@@ -1,4 +1,4 @@
-title: Simple PHP Template
+title: Essai de Tech.io
 plan:
-- title: PHP Snippet
-  statement: statement.md
+- title: Introduction
+  statement: markdown/introduction.md
